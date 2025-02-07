@@ -129,7 +129,7 @@
 20250110 Bend It Like Beckham (2002) \
 20250117 Wild at Heart (1990) *interrupted due to lack of quality* \
 20250117 Buffy the Vampire Slayer (1997-2003) S01E01 \
-20250117 Buffy the Vampire Slayer (1997-2003) S01E02 \
+20250125 Buffy the Vampire Slayer (1997-2003) S01E02 \
 20250125 Buffy the Vampire Slayer (1997-2003) S01E03 \
 20250125 Buffy the Vampire Slayer (1997-2003) S01E04 \
 20250131 God Bless America (2011)
