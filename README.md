@@ -132,4 +132,7 @@
 20250125 Buffy the Vampire Slayer (1997-2003) S01E02 \
 20250125 Buffy the Vampire Slayer (1997-2003) S01E03 \
 20250125 Buffy the Vampire Slayer (1997-2003) S01E04 \
-20250131 God Bless America (2011)
+20250131 God Bless America (2011) \
+20250207 Buffy the Vampire Slayer (1997-2003) S01E05 \
+20250207 Buffy the Vampire Slayer (1997-2003) S01E06 \
+20250207 Buffy the Vampire Slayer (1997-2003) S01E07
