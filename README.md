@@ -144,4 +144,5 @@
 20250321 The Twilight Saga: Breaking Dawn - Part 2 (2012) \
 20250328 Cuckoo (2024) \
 20250404 Companion (2025) \
-20250411 Pineapple Express (2008)
+20250411 Pineapple Express (2008) \
+20250418 Notting Hill (1999) (Griss hosted) (Norway con)
