@@ -148,5 +148,6 @@
 20250418 Notting Hill (1999) (Griss hosted) (Norway con) \
 20250425 Conclave (2024) \
 20250502 Pulp Fiction (1994) (Griss hosted) (Stockholm friends) \
-20250509 Shaolin Soccer (2001)
+20250509 Shaolin Soccer (2001) \
+20250516 Misery 1990
 
