@@ -149,5 +149,6 @@
 20250425 Conclave (2024) \
 20250502 Pulp Fiction (1994) (Griss hosted) (Stockholm friends) \
 20250509 Shaolin Soccer (2001) \
-20250516 Misery 1990
+20250516 Misery 1990 (Griss Hosted) \
+20250523 Evil Dead (2013)
 
