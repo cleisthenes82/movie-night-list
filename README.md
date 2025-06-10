@@ -150,5 +150,6 @@
 20250502 Pulp Fiction (1994) (Griss hosted) (Stockholm friends) \
 20250509 Shaolin Soccer (2001) \
 20250516 Misery 1990 (Griss Hosted) \
-20250523 Evil Dead (2013)
-
+20250523 Evil Dead (2013) \
+20250530 (Gris Hosted )\
+20250606 Yes Man (2008)
