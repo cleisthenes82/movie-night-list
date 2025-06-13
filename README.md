@@ -152,4 +152,5 @@
 20250516 Misery 1990 (Griss Hosted) \
 20250523 Evil Dead (2013) \
 20250530 Life (1999) (Griss Hosted) (TwitchCon Europe) \
-20250606 Yes Man (2008)
+20250606 Yes Man (2008) \
+20250613 The Grand Budapest Hotel (2014)
