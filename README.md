@@ -155,5 +155,5 @@
 20250606 Yes Man (2008) \
 20250613 The Grand Budapest Hotel (2014) \
 20250620 **No Movie** (Zoo Stream) \
-20250627 Kill Bill Vol. 1 (2003) (Griss Hosted) (Perri fell asleep because weak)
+20250627 Kill Bill Vol. 1 (2003) (Griss Hosted) (Perri fell asleep because weak) \
 20250704 Hannah Montana: The Movie (2009) (Griss Hosted) (Perri fell into a pint in the pub)
