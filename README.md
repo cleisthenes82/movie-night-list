@@ -159,4 +159,5 @@
 20250704 Hannah Montana: The Movie (2009) (Griss Hosted) (Perri fell into a pint in the pub) \
 20250711 Kill Bill: Vol. 2 (2004) (Griss Hosted) (Kleedham got old) \
 20250718 Old (2021) \
-20250725 Red Sparrow (2018) (Griss Hosted) (Perri fell into a pint of cider)
+20250725 Red Sparrow (2018) (Griss Hosted) (Perri fell into a pint of cider) \
+20250801 The Naked Gun: From the Files of Police Squad! (1988)
