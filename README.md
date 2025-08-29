@@ -163,4 +163,5 @@
 20250801 The Naked Gun: From the Files of Police Squad! (1988) \
 20250808 The Idea of You (2024) \
 20250815 Trolls 2 (1990) \
-20250822 The Road to El Dorado (2000) (Griss Hosted) (Gamescom)
+20250822 The Road to El Dorado (2000) (Griss Hosted) (Gamescom) \
+20250829 KPop Demon Hunters (2025)
