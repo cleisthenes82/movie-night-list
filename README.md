@@ -165,4 +165,5 @@
 20250815 Trolls 2 (1990) \
 20250822 The Road to El Dorado (2000) (Griss Hosted) (Gamescom) \
 20250829 KPop Demon Hunters (2025) \
-20250905 Whale Rider (2002) (Griss Hosted) (Perri fell into a Silksong hole and fucked us off)
+20250905 Whale Rider (2002) (Griss Hosted) (Perri fell into a Silksong hole and fucked us off) \
+20250912 Raiders of the Lost Ark (1981) (Griss Hosted) (Perri was at a birthday party drunk as a skunk)
