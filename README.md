@@ -167,4 +167,5 @@
 20250829 KPop Demon Hunters (2025) \
 20250905 Good Morning, Vietnam (1987) (Griss Hosted) (Perri fell into a Silksong hole and fucked us off) \
 20250912 Raiders of the Lost Ark (1981) (Griss Hosted) (Perri was at a birthday party drunk as a skunk) \
-20250917 **No Movie** (Stream ran late)
+20250917 **No Movie** (Stream ran late) \
+20250926 Police Academy (1984) (Griss Hosted) (Perri forgot she had to go to a party)
