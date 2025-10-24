@@ -169,4 +169,5 @@
 20250912 Raiders of the Lost Ark (1981) (Griss Hosted) (Perri was at a birthday party drunk as a skunk) \
 20250917 **No Movie** (Stream ran late) \
 20250926 Police Academy (1984) (Griss Hosted) (Perri forgot she had to go to a party) \
-20251003 Mean Girls (2024)
+20251003 Mean Girls (2024) \
+20251010 Batman Begins (2005)
