@@ -171,4 +171,6 @@
 20250926 Police Academy (1984) (Griss Hosted) (Perri forgot she had to go to a party) \
 20251003 Mean Girls (2024) \
 20251010 Batman Begins (2005) \
-20251017 Fight Club (1999) (Griss Hosted) (Perri at TwitchCon SD)
+20251017 Fight Club (1999) (Griss Hosted) (Perri at TwitchCon SD) \
+20251024 **No Movie** (Stream ran late) \
+20251031 The Babadook (2014)
