@@ -178,4 +178,8 @@
 20251114 The Twilight Saga: New Moon (2009) \
 20251121 MILF Manor (2023-) S01E03+S01E04 \
 20251128 **No Movie** (Dreamhack) \
-20251205 American Ultra (2015)
+20251205 American Ultra (2015) \
+20251212 Safety Not Guaranteed (2012) (Grace hosted)  \
+20251212 Heat (1995) (Grace hosted) \
+20251219 Gremlins 2: The New Batch (1990)
+
