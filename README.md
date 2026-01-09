@@ -181,5 +181,6 @@
 20251205 American Ultra (2015) \
 20251212 Safety Not Guaranteed (2012) (Grace hosted)  \
 20251212 Heat (1995) (Grace hosted) \
-20251219 Gremlins 2: The New Batch (1990)
-
+20251219 Gremlins 2: The New Batch (1990) \
+20251226 **No Movie** (Xmas) \
+20260102 Spirit: Stallion of the Cimarron (2002) 
